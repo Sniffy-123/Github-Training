@@ -3,3 +3,7 @@ This is a chat application
 Emoji
 Type Option
 Colors
+
+Dark & Light Mode
+Voice Call & Video Call
+Chat Themes
