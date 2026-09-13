@@ -7,3 +7,7 @@ Colors
 Dark & Light Mode
 Voice Call & Video Call
 Chat Themes
+
+Payment Options
+Send Money
+Receive Money
